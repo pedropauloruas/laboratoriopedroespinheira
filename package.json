@@ -1,0 +1,14 @@
+{
+  "name": "pagina-estatica",
+  "version": "1.0.0",
+  "description": "Uma página estática simples",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8080"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
